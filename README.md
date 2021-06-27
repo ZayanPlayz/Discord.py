@@ -10,8 +10,9 @@ Optimised in both speed and memory.
 Installing
 Python 3.5.3 or higher is required
 
-To install the library without full voice support, you can just run the following command:
+# Installing
 
+To install the library without full voice support, you can just run the following command:
 ```# Linux/macOS
 python3 -m pip install -U discord.py
 
