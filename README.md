@@ -12,8 +12,12 @@ Python 3.5.3 or higher is required
 
 To install the library without full voice support, you can just run the following command:
 
+# Linux/macOS
+python3 -m pip install -U discord.py
+
 # Windows
 py -3 -m pip install -U discord.py
+
 
 import discord
 from discord.ext import commands
