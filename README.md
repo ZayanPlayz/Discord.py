@@ -25,7 +25,8 @@ To install the library without full voice support, you can just run the followin
 
 Bot Example
 ----------
-```import discord
+```
+import discord
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix='>')
